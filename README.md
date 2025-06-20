@@ -1,2 +1,2 @@
 # Housing-Price-Prediction
-Built a regression model to predict house prices using the Ames housing dataset. Applied feature engineering and evaluated models like Random Forest, Gradient Boosting, and XGBoost. Achieved a Kaggle score of 0.13472.
+This project analyzes the Ames housing dataset to predict house sale prices using machine learning. It includes data preprocessing, feature engineering, and model evaluation with algorithms like Random Forest, Gradient Boosting, and XGBoost. Achieved a competitive score of 0.13472 on the Kaggle leaderboard.
